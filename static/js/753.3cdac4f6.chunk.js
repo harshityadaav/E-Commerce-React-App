@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunke_commerce_app=self.webpackChunke_commerce_app||[]).push([[753],{5753:function(e,t,c){c.r(t);var n=c(184);t.default=function(){return(0,n.jsx)(n.Fragment,{children:(0,n.jsx)("div",{className:"mt-5 w-100 font-weight-bolder d-flex align-items-center justify-content-center",children:(0,n.jsx)("h1",{className:"p-5 mt-5 display-1 font-weight-bolder",children:"Welcome to my Website"})})})}}}]);
+//# sourceMappingURL=753.3cdac4f6.chunk.js.map
